@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/the-witches/static/css/main.5f361e03.chunk.css",
+    "main.js": "/the-witches/static/js/main.d85ffcc7.chunk.js",
+    "main.js.map": "/the-witches/static/js/main.d85ffcc7.chunk.js.map",
+    "runtime-main.js": "/the-witches/static/js/runtime-main.5c5a2d3a.js",
+    "runtime-main.js.map": "/the-witches/static/js/runtime-main.5c5a2d3a.js.map",
+    "static/js/2.f7af909e.chunk.js": "/the-witches/static/js/2.f7af909e.chunk.js",
+    "static/js/2.f7af909e.chunk.js.map": "/the-witches/static/js/2.f7af909e.chunk.js.map",
+    "index.html": "/the-witches/index.html",
+    "precache-manifest.d491e56d802b8fbefc9e2cf46f8c5a0a.js": "/the-witches/precache-manifest.d491e56d802b8fbefc9e2cf46f8c5a0a.js",
+    "service-worker.js": "/the-witches/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/the-witches/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f7af909e.chunk.js.LICENSE.txt": "/the-witches/static/js/2.f7af909e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/the-witches/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c5a2d3a.js",
+    "static/js/2.f7af909e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.d85ffcc7.chunk.js"
+  ]
+}
