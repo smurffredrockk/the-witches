@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/the-witches/static/css/main.5f361e03.chunk.css",
-    "main.js": "/the-witches/static/js/main.3b736bc1.chunk.js",
-    "main.js.map": "/the-witches/static/js/main.3b736bc1.chunk.js.map",
+    "main.js": "/the-witches/static/js/main.46c83e94.chunk.js",
+    "main.js.map": "/the-witches/static/js/main.46c83e94.chunk.js.map",
     "runtime-main.js": "/the-witches/static/js/runtime-main.5c5a2d3a.js",
     "runtime-main.js.map": "/the-witches/static/js/runtime-main.5c5a2d3a.js.map",
     "static/js/2.f7af909e.chunk.js": "/the-witches/static/js/2.f7af909e.chunk.js",
     "static/js/2.f7af909e.chunk.js.map": "/the-witches/static/js/2.f7af909e.chunk.js.map",
     "index.html": "/the-witches/index.html",
-    "precache-manifest.17e4b3a3d18250ef65774aa0874f6483.js": "/the-witches/precache-manifest.17e4b3a3d18250ef65774aa0874f6483.js",
+    "precache-manifest.b55adc811b66bbcb653b77cfc4879945.js": "/the-witches/precache-manifest.b55adc811b66bbcb653b77cfc4879945.js",
     "service-worker.js": "/the-witches/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/the-witches/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.f7af909e.chunk.js.LICENSE.txt": "/the-witches/static/js/2.f7af909e.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.5c5a2d3a.js",
     "static/js/2.f7af909e.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.3b736bc1.chunk.js"
+    "static/js/main.46c83e94.chunk.js"
   ]
 }
