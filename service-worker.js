@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/the-witches/precache-manifest.d491e56d802b8fbefc9e2cf46f8c5a0a.js"
+  "/the-witches/precache-manifest.17e4b3a3d18250ef65774aa0874f6483.js"
 );
 
 self.addEventListener('message', (event) => {
