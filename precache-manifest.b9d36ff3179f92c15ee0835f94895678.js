@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4041b68796fc15d0d4bb4673a471bd20",
+    "revision": "96f5ec27af139d4850825e9e026233a1",
     "url": "/the-witches/index.html"
   },
   {
-    "revision": "1a8cc8bb9b42ddf57ded",
+    "revision": "e79bf6ccddd036e50b7c",
     "url": "/the-witches/static/css/main.43672ece.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/the-witches/static/js/2.5a38f84a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1a8cc8bb9b42ddf57ded",
-    "url": "/the-witches/static/js/main.83e926f9.chunk.js"
+    "revision": "e79bf6ccddd036e50b7c",
+    "url": "/the-witches/static/js/main.b9b3d935.chunk.js"
   },
   {
     "revision": "8a5cfab174ddeacc3e1e",
